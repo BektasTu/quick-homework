@@ -1,0 +1,14 @@
+.card {
+    padding: 10px;
+    margin: 30px;
+    border-radius: 25px;
+  }
+  
+  .card__name {
+    margin-bottom: 20px;
+  }
+  
+  .card__status {
+    font-size: 22px;
+    margin: 10px;
+  }
